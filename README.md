@@ -1,7 +1,7 @@
 Проект по SQL: анализ продаж
 
 Данные
-Файл: `train.csv` (датасет Superstore)
+Файл: `train.csv` (датасет Superstore) https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting?resource=download
 Количество строк:9800
 
 Что я сделала:
